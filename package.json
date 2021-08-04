@@ -1,0 +1,31 @@
+{
+  "name": "shopify-site-for-training",
+  "version": "1.0.0",
+  "description": "Author: I. Isainkov Name: Shopify site for training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isainkov/shopify-site-for-training.git"
+  },
+  "author": "Isainkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isainkov/shopify-site-for-training/issues"
+  },
+  "homepage": "https://github.com/Isainkov/shopify-site-for-training#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^5.0.0",
+    "node-sass": "^6.0.1",
+    "sass": "^1.37.5"
+  },
+  "dependencies": {
+    "@shopify/themekit": "^1.1.9",
+    "gulp-clean-css": "^4.3.0"
+  }
+}
